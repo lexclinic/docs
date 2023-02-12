@@ -26,4 +26,4 @@ If a grantor donates to the treasury, the grantor is the Origin signor.
 
 ## resources
 
-[Seal NFTs](https://ape.mirror.xyz/wg\_8GMY08sZRMQEPbI4rWUpW1voAsGu-lXg2nDdbvys), defining arbitrary-weighting, shallow-hierarchy networks.
+[Seal NFTs](https://ape.mirror.xyz/wg\_8GMY08sZRMQEPbI4rWUpW1voAsGu-lXg2nDdbvys) as nodes of arbitrary-weighting, shallow-hierarchy networks.
