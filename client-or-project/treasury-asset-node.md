@@ -50,7 +50,7 @@ NFT-seals are owned by the treasury.
 ### mandatory
 
 * [entity](https://app.gitbook.com/o/Ge5x1XBnN4Zr9dpGqkNC/s/cEok3YduYgyOTvIh4rtP/\~/changes/4/seal/entity)
-* [retainer](https://app.gitbook.com/o/Ge5x1XBnN4Zr9dpGqkNC/s/cEok3YduYgyOTvIh4rtP/\~/changes/4/seal/retainer), if client-treasury
+* [engagement](https://app.gitbook.com/o/Ge5x1XBnN4Zr9dpGqkNC/s/cEok3YduYgyOTvIh4rtP/\~/changes/5/seal/engagement), if client-treasury
 * [purpose](https://app.gitbook.com/o/Ge5x1XBnN4Zr9dpGqkNC/s/cEok3YduYgyOTvIh4rtP/\~/changes/4/seal/purpose), if project-treasury
 
 ### optional
