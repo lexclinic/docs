@@ -1,6 +1,6 @@
 # Table of contents
 
-* [welcome to LexClinic!](README.md)
+* [welcome to LexClinic \[in alpha\]!](README.md)
 
 ## Client or project
 
@@ -25,4 +25,4 @@
 * [contributor](seal/contributor.md)
 * [entity](seal/entity.md)
 * [purpose](seal/purpose.md)
-* [engagement](seal/engagement.md)
+* [engagement](seal/retainer.md)

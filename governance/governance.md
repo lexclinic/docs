@@ -1,3 +1,9 @@
 # governance
 
-Visit [seal](https://app.gitbook.com/o/Ge5x1XBnN4Zr9dpGqkNC/s/cEok3YduYgyOTvIh4rtP/\~/changes/4/seal/seal) for an explanation of arbitrary-weighting, shallow-hierarchy codeslaw network 'forest.'&#x20;
+Visit [seal](../seal/seal.md) for an explanation of arbitrary-weighting, shallow-hierarchy codeslaw network 'forest.'&#x20;
+
+With Seals, the DAO is designed to avoid centralizing around a single 'node' as much as possible.&#x20;
+
+Rather, the DAO is a network of nodes bound together by a shared Seal collection.
+
+The most centralized node, used to manage the operations team, is at [http://dao.lex.clinic](http://dao.lex.clinic) .&#x20;

@@ -4,10 +4,14 @@ description: treasury as a 'neural' network node
 
 # treasury (asset node)
 
-Stablecoins accepted by the clinic:
+Stablecoins accepted by the Clinic:
 
 * DAI
 * USDC
+
+## example
+
+[https://app.safe.global/matic:0x2693DD4866BDf8ECCb2288D410C545E434B728C8/home](https://app.safe.global/matic:0x2693DD4866BDf8ECCb2288D410C545E434B728C8/home)
 
 ## multisig
 
@@ -45,14 +49,19 @@ The Fix signor is the arbitrator.
 
 ## seal
 
-NFT-seals are owned by the treasury.
+An NFT-seal collection is used as a shared legal wrapper.
 
-### mandatory
+### treasury owned
 
-* [entity](https://app.gitbook.com/o/Ge5x1XBnN4Zr9dpGqkNC/s/cEok3YduYgyOTvIh4rtP/\~/changes/4/seal/entity)
-* [engagement](https://app.gitbook.com/o/Ge5x1XBnN4Zr9dpGqkNC/s/cEok3YduYgyOTvIh4rtP/\~/changes/5/seal/engagement), if client-treasury
-* [purpose](https://app.gitbook.com/o/Ge5x1XBnN4Zr9dpGqkNC/s/cEok3YduYgyOTvIh4rtP/\~/changes/4/seal/purpose), if project-treasury
+* [entity](../seal/entity.md)
+* one of:
+  * [engagement](../seal/retainer.md) parent, if client-treasury
+  * [purpose](../seal/purpose.md) parent, if project-treasury
+* [charity](../seal/charity.md), if tax deductible (optional)
 
-### optional
+### multisig signor owned
 
-* [charity](https://app.gitbook.com/o/Ge5x1XBnN4Zr9dpGqkNC/s/cEok3YduYgyOTvIh4rtP/\~/changes/4/seal/charity), if tax deductible&#x20;
+* one of:
+  * [engagement](../seal/retainer.md) parent, if client-treasury
+  * [purpose](../seal/purpose.md) parent, if project-treasury
+

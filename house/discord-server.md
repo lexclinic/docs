@@ -24,7 +24,7 @@ description: traditional law clinic 'client file' translated to Discord
 
 Discord is used whenever work is done in the open, which should be as much as possible.
 
-For clients who wish to stay anonymous while doing open work, please visit the [client or project](https://app.gitbook.com/o/Ge5x1XBnN4Zr9dpGqkNC/s/cEok3YduYgyOTvIh4rtP/\~/changes/1/client-or-project) section of this document.
+For clients who wish to stay anonymous while doing open work, please visit the [client or project](../client-or-project/client-or-project.md) section of this document.
 
 ## category
 
