@@ -1,27 +1,27 @@
 # Table of contents
 
-* [welcome to LexClinic \[in alpha\]!](README.md)
+* [welcome to LexClinic!](README.md)
 
-## Client or project
+## job
 
-* [client or project](client-or-project/client-or-project.md)
-* [token (liability node)](client-or-project/token-liability-node.md)
-* [treasury (asset node)](client-or-project/treasury-asset-node.md)
+* [open a file](job/open-a-file/README.md)
+  * [role](job/open-a-file/role.md)
+* [treasury asset-node](job/treasury-asset-node/README.md)
+  * [invoice](job/treasury-asset-node/invoice.md)
+* [token liability-node](job/token-liability-node.md)
+
+## house
+
+* [Discord server](house/discord-server.md)
 
 ## governance
 
 * [governance](governance/governance.md)
 * [tax matters council ("TMC")](governance/tax-matters-council-tmc.md)
 
-## house
-
-* [Discord server](house/discord-server.md)
-* [invoice](house/invoice.md)
-
 ## seal
 
 * [seal](seal/seal.md)
-* [charity](seal/charity.md)
 * [contributor](seal/contributor.md)
 * [entity](seal/entity.md)
 * [purpose](seal/purpose.md)
