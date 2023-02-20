@@ -59,8 +59,8 @@ An NFT-seal collection is used as a shared legal wrapper.
 
 ### required
 
-* [entity](../../seal/entity.md)
+* [entity](../seal/entity.md)
 * one of:
-  * [engagement](../../seal/retainer.md), if client-file
-  * [purpose](../../seal/purpose.md), if project-file
+  * [engagement](../seal/retainer.md), if client-file
+  * [purpose](../seal/purpose.md), if project-file
 

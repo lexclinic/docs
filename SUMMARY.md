@@ -6,9 +6,9 @@
 
 * [open a file](job/open-a-file/README.md)
   * [role](job/open-a-file/role.md)
-* [treasury asset-node](job/treasury-asset-node/README.md)
+* [treasury asset-node](client-or-project/treasury-asset-node.md)
   * [invoice](job/treasury-asset-node/invoice.md)
-* [token liability-node](job/token-liability-node.md)
+* [token liability-node](client-or-project/token-liability-node.md)
 
 ## house
 
