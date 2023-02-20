@@ -16,7 +16,7 @@
 
 ## governance
 
-* [governance](governance/governance.md)
+* [intranet](governance/intranet.md)
 * [tax matters council ("TMC")](governance/tax-matters-council-tmc.md)
 
 ## seal

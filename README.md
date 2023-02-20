@@ -35,13 +35,15 @@ Concurrently, there remains a need to:
    * modeled after law school clinic design
    * work in concert with participating law firms
 
-## # Clinic fee
+## Clinic fee
 
 At this early stage, the Clinic fee is 20%.&#x20;
 
 However, the Clinic is not-for-profit.&#x20;
 
 When the Clinic's revenue matures enough, this fee will be lowered or removed altogether.
+
+You can donate to the Clinic at [http://dao.lex.clinic](http://dao.lex.clinic) .
 
 ## alpha mode
 

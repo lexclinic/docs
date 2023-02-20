@@ -19,48 +19,50 @@ Stablecoins accepted by the Clinic:
 
 A transaction can be executed with 2/3 signors:
 
-* Origin signor
-* Next signor
-* Fix signor
+* Origin-signor
+* Next-signor
+* Fix-signor
 
-A single House cannot have more than 1 journeyperson as a signor.
+A single House cannot have more than 1 signor on the multisig.
 
-### 1. Origin signor
+### 1. Origin-signor
 
-This signor is the party responsible for the stablecoins placed into the treasury.
+The Origin-signor is the party responsible for the stablecoins that have been placed into the treasury.
 
-* If a client puts stablecoins into the treasury, the client's agent is the Origin signor.
-* If a grantor donates stablecoins to the treasury, the grantor's agent is the Origin signor.
-  * If it's inappropriate for a grantor's agent to act as the Origin signor, a House journeyperson will act as the Origin signor:
-    * without a conflict of interest; and
-    * from a different House than the Next signor's House journeyperson
+* If a patron puts stablecoins into the treasury, the patron's agent is the Origin-signor.
+* If a grantor donates stablecoins to the treasury, the grantor's agent is the Origin-signor.
+  * If it's inappropriate for a grantor's agent to act as the Origin-signor, a signor from a different house will act as the Origin-signor:
+    * the Origin-signor must be a signor without even the appearance of a conflict of interest
 
-The Origin signor should approve the transactions initiated by the Next signor.
+The Origin-signor should approve the transactions initiated by the Next-signor, and if not then the contributors might not be a good fit.
 
-### 2. Next signor
+### 2. Next-signor
 
-The Next-signor is the party responsible for collecting invoices and initiating treasury transactions to pay invoices.
+The Next-signor is the party responsible for:
 
-Invoices include grant distributions.
-
-The Next signor is the House agent hosting the client or project.
+* ensuring all the invoices are in order
+* reaching out to Origin-signor&#x20;
+  * to get an informal approval of the transaction
+* start the transaction
+* ensure Origin-signor approves the transaction
+* execute the transaction
 
 ### 3. Fix signor
 
-In the event one of the other two signors reject or abstain from signing a transaction, the Fix signor will break the tie.
+In the event one of the other two signors reject or abstain from signing a transaction, the Fix-signor will break the tie.
 
-The Fix signor will not start a transaction.
+The Fix-signor will not start a transaction.
 
-The Fix signor is the arbitrator.
+The Fix-signor is the arbitrator.
 
 ## seal
 
-An NFT-seal collection is used as a shared legal wrapper.
+An NFT-seal collection is used as an arrayed legal wrapper.
 
 ### required
 
 * [entity](../seal/entity.md)
 * one of:
-  * [engagement](../seal/retainer.md), if client-file
+  * [engagement](../seal/retainer.md), if patron-file
   * [purpose](../seal/purpose.md), if project-file
 

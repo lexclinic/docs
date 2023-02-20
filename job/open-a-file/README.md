@@ -4,11 +4,11 @@ description: open a file in the Clinic
 
 # open a file
 
-## client or project
+## patron or project
 
 If there's no agent acting on behalf of the stablecoin's origin, the file is a project-file.
 
-Otherwise, the file is a client-file.&#x20;
+Otherwise, the file is a patron-file.&#x20;
 
 ## house
 
@@ -26,6 +26,6 @@ Apprentices must perform at least 2/3 of billable work time on the file.
 
 ## treasury asset-node & token liability-node
 
-Each client or project should have 1 asset-node and 1 liability-node.
+Each patron or project should have 1 asset-node and 1 liability-node.
 
 The liability-node is at the exploratory stage and should not be relied on as an accounting method.
