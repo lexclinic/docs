@@ -1,6 +1,6 @@
 # intranet
 
-Visit [seal](../seal/seal.md) for an explanation of arbitrary-weighting, shallow-hierarchy codeslaw network 'forest.'&#x20;
+Visit [seal](../seal/seal/) for an explanation of arbitrary-weighting, shallow-hierarchy codeslaw network 'forest.'&#x20;
 
 With Seals, the DAO is designed to avoid centralizing around a single 'node' as much as possible.&#x20;
 

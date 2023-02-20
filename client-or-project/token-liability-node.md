@@ -36,5 +36,5 @@ An NFT-seal collection is used as an arrayed legal wrapper.
 
 ### required
 
-* [entity](../seal/entity.md)
-* [contributor](../seal/contributor.md)
+* [entity](../seal/seal/entity.md)
+* [contributor](../seal/seal/contributor.md)

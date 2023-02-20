@@ -16,13 +16,13 @@
 
 ## governance
 
-* [intranet](governance/intranet.md)
+* [intranet](governance/governance.md)
 * [tax matters council ("TMC")](governance/tax-matters-council-tmc.md)
 
 ## seal
 
-* [seal](seal/seal.md)
-* [contributor](seal/contributor.md)
-* [entity](seal/entity.md)
-* [purpose](seal/purpose.md)
-* [engagement](seal/retainer.md)
+* [seal](seal/seal/README.md)
+  * [contributor](seal/seal/contributor.md)
+  * [engagement](seal/seal/engagement.md)
+  * [entity](seal/seal/entity.md)
+  * [purpose](seal/seal/purpose.md)

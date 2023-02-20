@@ -20,7 +20,7 @@ A house dean is responsible for ensuring all files in the house receive adequate
 
 ## role
 
-Each file has at least 4 [contributors](../../seal/contributor.md), including 2 apprentices.
+Each file has at least 4 [contributors](../../seal/seal/contributor.md), including 2 apprentices.
 
 Apprentices must perform at least 2/3 of billable work time on the file.
 
