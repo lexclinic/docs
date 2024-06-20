@@ -14,5 +14,7 @@ description: our stack
 * web3 (trustless-login environment)
   * [https://clinic.deform.cc/patron](https://clinic.deform.cc/patron)
     * join the DAO
+  * [https://app.herocast.xy](https://app.herocast.xy)
+    * social media
   * [https://app.charmverse.io/clinic](https://app.charmverse.io/clinic)
     * DAO information
