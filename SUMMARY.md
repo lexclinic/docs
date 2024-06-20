@@ -1,6 +1,7 @@
 # Table of contents
 
 * [welcome to LexClinic!](README.md)
+* [SETUP](setup.md)
 
 ## job
 
